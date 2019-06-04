@@ -2,7 +2,7 @@
   "name": "experiment_d3",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mitchpatterson.github.io/experiment_d3",
+  "homepage": "https://mitchpatterson.github.io/d3_experiments",
   "dependencies": {
     "d3": "^5.9.2",
     "react": "^16.8.6",

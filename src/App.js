@@ -25,7 +25,7 @@ class App extends Component {
           <p>
             D3.js Charting Experiments
           </p>
-          <button onClick={() => this.setState({render: true})}>Let's go!</button>
+          <button className="home_button" onClick={() => this.setState({render: true})}>Let's go!</button>
       </header>
     );
   }

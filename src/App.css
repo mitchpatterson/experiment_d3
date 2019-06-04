@@ -25,6 +25,23 @@
   width: 20px;
 }
 
+.home_button {
+  border: 2px solid white;
+  color: white;
+  height: 30px;
+  width: 100px;
+  background-color: transparent;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 1s ease, transform 1s ease;
+}
+
+.home_button:hover {
+  background-color: white;
+  color: #282c34;
+  transform: scale(1.2);
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

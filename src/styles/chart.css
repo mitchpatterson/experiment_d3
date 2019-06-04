@@ -3,8 +3,9 @@
 }
 
 .chart_component .chart_wrapper {
-	min-height: calc(100vh - 80px);
-	width: 100%;
+	width: calc(100% - 40px);
 	background-color: white;
-	border-radius: 10px;
+	text-align: left;
+	padding: 20px;
 }
+

@@ -1,0 +1,11 @@
+.chart_component {
+	padding: 40px;
+}
+
+.chart_component .chart_wrapper {
+	width: calc(100% - 40px);
+	background-color: white;
+	text-align: left;
+	padding: 20px;
+}
+
